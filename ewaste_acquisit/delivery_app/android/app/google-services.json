@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371747631024",
+    "project_id": "ewasteacquisit",
+    "storage_bucket": "ewasteacquisit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371747631024:android:21798ee5f5d5bc4be7b075",
+        "android_client_info": {
+          "package_name": "com.example.ewaste_acquisit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371747631024-kpicklfvq6ptc99mr3cf6gsscivpeqg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsXJLSJkeIzW4U5G6CVKWE6WqJ2NeifdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371747631024-kpicklfvq6ptc99mr3cf6gsscivpeqg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
